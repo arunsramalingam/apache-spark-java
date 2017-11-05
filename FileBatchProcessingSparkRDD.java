@@ -29,7 +29,7 @@ public class FileBatchProcessingSparkRDD {
 //		JavaRDD<String> requiredLines = input.filter(new Function<String, Boolean>() {
 //			public Boolean call(String line) throws Exception {
 //				boolean postpaid = false;
-//				if (line.contains("SMS-MO") || line.contains("MOC")) {
+//				if (line.contains("SMS") || line.contains("UPdaya")) {
 //					postpaid = true;
 //				}
 //				return postpaid;
