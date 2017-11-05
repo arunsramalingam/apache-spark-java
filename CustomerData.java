@@ -1,9 +1,6 @@
 package com.edu.spark;
 
 public class CustomerData {
-//	private String address;
-	//private String CPUIdentifier;//to be removded
-//	PLAN1;MOC;CUST1;0612287077;3;07:31:55;01/04/2015
 	private String planName;
 	private String usage;
 	private String customerName;
